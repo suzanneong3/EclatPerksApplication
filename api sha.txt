@@ -1,0 +1,7 @@
+keytool -list -v -keystore "C:\Users\User\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+FC:93:C7:CE:4D:4E:3C:9C:02:CB:E2:04:B4:56:7B:F9:58:7D:43:57
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=FC:93:C7:CE:4D:4E:3C:9C:02:CB:E2:04:B4:56:7B:F9:58:7D:43:57%3Bcom.example.user.eclatperksapplication
+
+
+AIzaSyD3CcqHJ1TqZPG5WCPxstx-yVdLx4ooGCQ 
